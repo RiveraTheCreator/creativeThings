@@ -1,5 +1,5 @@
 # Reflexiones sobre la naturaleza y lo humano
-Este codigo surge de las reflexiones del cafe filosofico del centro multimedia del CENART donde reflexionamos sobre la naturaleza, lo humano y el arte. Me tome el tiempo de definir lo humano a traves del lenguaje de programacion Java Script de forma divertida y absurda.
+
 ---
 # Ecosistema de Humanos y AntiHumanos
 
